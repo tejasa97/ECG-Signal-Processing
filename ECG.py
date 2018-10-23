@@ -1,11 +1,15 @@
+### Import required packages
 import csv
 import math
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import scipy.fftpack
+# Helps to obtain the FFT
+import scipy.fftpack    
+# Various operations on signals (waveforms)
 import scipy.signal as signal
-                                                            ###Obtain ecg sample from csv file using pandas###
+                                                    
+                                                    ###Obtain ecg sample from csv file using pandas###
 dataset = pd.read_csv("noise.csv")
 y = [e for e in dataset.hart]
 	
