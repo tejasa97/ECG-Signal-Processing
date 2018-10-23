@@ -1,5 +1,8 @@
 # ECG-noise-removal
-A python script to process raw ECG signals and impute the peaks and heartbeats following noise suppression to obtain processed ECG
+A python script to process ***raw ECG waveforms*** to obtain a ***smoothened*** waveform  and thus impute from them the peaks and heartbeats.
+
+Also, since the waveform is *denoised* to obtain a *processed* waveform, medical examinations can be conducted on it to detect certain types of diseases/disorders like **Angina, Atrial Fibrillation, Diabetes**, etc.
+
 ## Frequency filtered
 
 <img src = images/freq-d.PNG width = 400>
