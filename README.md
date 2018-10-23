@@ -2,7 +2,7 @@
 A python script to process raw ECG signals and impute the peaks and heartbeats following noise suppression to obtain processed ECG
 ## Frequency filtered
 
-<img src = images/fred-d.PNG width = 400>
+<img src = images/freq-d.PNG width = 400>
 
 ## Time filtered
 
