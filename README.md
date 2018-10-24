@@ -15,3 +15,6 @@ Also, since the waveform is *denoised* to obtain a *processed* waveform, medical
 
 <img src = images/heart-rate.PNG width = 400>
 
+## Number of heart peaks and calculated heart rate
+
+<img src = images/result.png width = 400>
